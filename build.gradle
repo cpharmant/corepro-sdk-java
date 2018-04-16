@@ -3,13 +3,10 @@ plugins {
 	id 'idea'
 }
 
-version = '1.0.0'
-
-archivesBaseName = 'corepro-sdk-java'
-version = '1.0.0'
 group = 'io.corepro'
-
-//jar.baseName = 'corepro-sdk-java'
+version = '1.0.0'
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
 
 repositories {
 	jcenter()
