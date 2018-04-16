@@ -6,3 +6,4 @@ app.properties
 /.idea/
 /build/
 /out/
+/*.iml
